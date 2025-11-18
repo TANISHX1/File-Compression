@@ -63,3 +63,6 @@ gcc huffman.c -o huffman
 - `c` = Compress | `d` = Decompress
 - Enter input file (must exist)
 - Enter output file (directory writable)
+
+  ## Outputs
+   Sample Outputs [https://tanishx1.github.io/web-result/file%20compression/index.html]
